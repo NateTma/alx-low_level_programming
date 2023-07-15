@@ -1,1 +1,1 @@
-scripts that do different things on c
+0x00-hello_world
