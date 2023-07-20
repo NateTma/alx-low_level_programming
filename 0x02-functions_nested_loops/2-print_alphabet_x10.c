@@ -5,7 +5,7 @@
  *
  * Return - 0
  */
-void print_alphabet_x10(void)
+void print_alphabet_x10(int)
 {
 	int b = 0;
 	while (b < 10)
