@@ -1,5 +1,7 @@
 #include "main.h"
 
+char _putchar(char c);
+
 /**
  * print_alphabet - check the code for Holberton School students.
  *
