@@ -5,7 +5,7 @@
  *
  * Return - 0
  */
-void print_alphabet_x10(int)
+void print_alphabet_x10(void)
 {
 	int b = 0;
 	while (b < 10)
@@ -19,4 +19,5 @@ void print_alphabet_x10(int)
 		_putchar('\n');
 		b++;
 	}
+	return (0);
 }
